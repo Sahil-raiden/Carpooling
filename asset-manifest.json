@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Carpooling/static/css/main.1ab3e0a6.css",
+    "main.js": "/Carpooling/static/js/main.43ccd446.js",
+    "static/media/cph.png": "/Carpooling/static/media/cph.71c4bb8e7a627fa598ff.png",
+    "static/media/dtbackg.png": "/Carpooling/static/media/dtbackg.165965c69931c3d1c127.png",
+    "static/media/dtlogo.png": "/Carpooling/static/media/dtlogo.41873a96c58e4d976cfb.png",
+    "static/media/driver1.jpeg": "/Carpooling/static/media/driver1.45bbbd1a3a6d295d97b0.jpeg",
+    "static/media/driver5.jpeg": "/Carpooling/static/media/driver5.5c7fd2b358e2f246a771.jpeg",
+    "static/media/driver3.jpeg": "/Carpooling/static/media/driver3.d632487d68198150ce57.jpeg",
+    "static/media/driverpic.jpeg": "/Carpooling/static/media/driverpic.60f2d1fc4331984d3500.jpeg",
+    "static/media/driver4.webp": "/Carpooling/static/media/driver4.db965d77ad8119821c55.webp",
+    "static/media/driver2.avif": "/Carpooling/static/media/driver2.635cd3ffa03e0aaa2ff5.avif",
+    "index.html": "/Carpooling/index.html",
+    "main.1ab3e0a6.css.map": "/Carpooling/static/css/main.1ab3e0a6.css.map",
+    "main.43ccd446.js.map": "/Carpooling/static/js/main.43ccd446.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab3e0a6.css",
+    "static/js/main.43ccd446.js"
+  ]
+}
