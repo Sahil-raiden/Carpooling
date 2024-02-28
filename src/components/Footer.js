@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../assets/dtlogo.png"
+import logo from "../assets/dtlogo.pngnpm"
 import { BsTwitter } from 'react-icons/bs'
 import {SiLinkedin} from "react-icons/si"
 import { BsYoutube } from 'react-icons/bs'
